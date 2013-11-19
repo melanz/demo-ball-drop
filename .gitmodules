@@ -1,3 +1,0 @@
-[submodule "ParallelUtils-cmake"]
-	path = ParallelUtils-cmake
-	url = git://github.com/andrewseidl/ParallelUtils-cmake
